@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://benutzerhandbuch.lila.schule/sitemap.xml.gz

@@ -4,10 +4,19 @@ url: benutzerhandbuch.lila.schule
 branding:
   title: Benutzerhandbuch
   label: v0.4
+  logo: static/logo-lila.png
+  logoDark: static/logo-white.png
 links:
-- text: Impressum
-  link: https://lila.schule/impressum
-- text: Datenschutzerklärung
-  link: https://lila.schule/datenschutz
+- text: LILA
+  icon: home
+  link: https://lila.schule/
+favicon: static/logo-lila.png
 footer:
   copyright: "&copy; Copyright LILA.SCHULE GmbH {{ year }}. Alle Rechte vorbehalten."
+  links:
+  - text: Impressum
+    link: https://lila.schule/impressum
+  - text: Datenschutzerklärung
+    link: https://lila.schule/datenschutz
+meta:
+  title: " | LILA Benutzerhandbuch"

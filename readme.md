@@ -1,4 +1,4 @@
-# 1. Willkommen
+# Willkommen
 
 Hier finden Sie alle Anleitungsartikel für LILA Anwendungen.
 

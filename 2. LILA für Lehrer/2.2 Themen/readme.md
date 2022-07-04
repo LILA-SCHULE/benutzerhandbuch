@@ -24,19 +24,19 @@ Für das Design können Sie zwischen einem Thema in Fachfarbe und einem Symbol o
 
 Um ein Symbol auszuwählen, klicken Sie dieses an.
 
-![Symbol auswählen](/static/lila/themen/Thema_erstellen_%E2%80%93_Unterordner_Symbol.png)
+![Symbol auswählen](/static/lila/themen/Thema_erstellen_–_Unterordner_Symbol.png)
 
 Alternativ kann auch ein Hintergrundbild genutzt werden. Wählen Sie hierzu Hintergrundbild an und folgen Sie den nächsten Schritten.
 
-![Hintergrundbild auswählen](/static/lila/themen/Thema_erstellen_%E2%80%93_Material.png)
+![Hintergrundbild auswählen](/static/lila/themen/Thema_erstellen_–_Material.png)
 
 Nun auf Mediathek öffnen klicken.
 
-![Mediathek geöffnet](/static/lila/themen/Thema_erstellen_%E2%80%93_Mediathek.png)
+![Mediathek geöffnet](/static/lila/themen/Thema_erstellen_–_Mediathek.png)
 
 Als nächstes auf das Feld "Hochladen" klicken.
 
-![Bild hochladen](/static/lila/themen/Thema_erstellen_%E2%80%93_Bild_hochladen.png)
+![Bild hochladen](/static/lila/themen/Thema_erstellen_–_Bild_hochladen.png)
 
 Für das Hochladen gibt es 2 Möglichkeiten:
 
@@ -47,9 +47,9 @@ Für das Hochladen gibt es 2 Möglichkeiten:
 
 Nach dem Upload nun das gewählte Bild auswählen und durch das Klicken des "Verwenden"-Knopf die Auswahl bestätigen.
 
-![Bild auswählen und verwenden](/static/lila/themen/Thema_erstellen_%E2%80%93_Bild_ausgew%C3%A4hlt.png)
+![Bild auswählen und verwenden](/static/lila/themen/Thema_erstellen_–_Bild_ausgew%C3%A4hlt.png)
 
-![Thema erstellen](/static/lila/themen/Thema_erstellen_%E2%80%93_Material_fertig.png)
+![Thema erstellen](/static/lila/themen/Thema_erstellen_–_Material_fertig.png)
 
 Durch Klick auf den "Erstellen"-Knopf wird der Assitent abgeschlossen und das Thema zur Übersicht hinzugefügt.
 

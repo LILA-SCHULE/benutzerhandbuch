@@ -1,8 +1,8 @@
 input: .
 output: .retype
-url: benutzerhandbuch.lila.schule
+url: hilfe.lila.schule
 branding:
-  title: Benutzerhandbuch
+  title: Hilfe
   label: v0.4
   logo: static/logo-lila.png
   logoDark: static/logo-white.png
@@ -19,4 +19,4 @@ footer:
   - text: Datenschutzerklärung
     link: https://lila.schule/datenschutz
 meta:
-  title: " | LILA Benutzerhandbuch"
+  title: " | LILA Hilfe"

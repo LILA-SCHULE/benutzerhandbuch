@@ -47,7 +47,7 @@ Für das Hochladen gibt es 2 Möglichkeiten:
 
 Nach dem Upload nun das gewählte Bild auswählen und durch das Klicken des "Verwenden"-Knopf die Auswahl bestätigen.
 
-![Bild auswählen und verwenden](/static/lila/themen/Thema_erstellen_–_Bild_ausgew%C3%A4hlt.png)
+![Bild auswählen und verwenden](/static/lila/themen/Thema_erstellen_–_Bild_ausgewaehlt.png)
 
 ![Thema erstellen](/static/lila/themen/Thema_erstellen_–_Material_fertig.png)
 
